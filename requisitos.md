@@ -901,6 +901,24 @@
 | **Entrega**     | v2             |
 
 
+| **R101**     | **Envío de e-mail a usuario-profesional**         |
+| --------------: | :------------------- |
+| **Descripción** | Una vez aceptado un presupuesto la aplicación enviará un correo electrónico al usuario-profesional notificando dicho cambio de estado.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R102**     | **Envío de e-mail a usuario-empleador**         |
+| --------------: | :------------------- |
+| **Descripción** | El usuario-empleador recibirá un correo electrónico cada vez que su solicitud de servicio reciba un presupuesto             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
 
 ## Cuadro resumen
 
@@ -1006,3 +1024,5 @@
 | (**R98**) Sección mis presupuestos | Importante | Funcional | Media | v3 | 
 | (**R99**) Sección mis ofertas | Importante | Funcional | Fácil | v3 | 
 | (**R100**) Imagen de perfil | Importante | Funcional | Fácil | v2 | 
+| (**R101**) Envío de e-mail a usuario-profesional | Importante | Funcional | Fácil | v2 | 
+| (**R102**) Envío de e-mail a usuario-empleador | Importante | Funcional | Fácil | v2 | 
